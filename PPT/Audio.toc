@@ -1,0 +1,10 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Overview of the Steps Involved}{4}{0}{1}
+\beamer@sectionintoc {2}{Theory and Implementation}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Pre-Emphasis and Windowing}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Feature Extraction}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{Feature Matching}{8}{0}{2}
+\beamer@subsectionintoc {2}{4}{Nearest Neighbours}{10}{0}{2}
+\beamer@subsectionintoc {2}{5}{Clustering}{11}{0}{2}
+\beamer@sectionintoc {3}{Simulation Results}{13}{0}{3}
